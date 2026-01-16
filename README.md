@@ -88,14 +88,13 @@ Password found for user elliot.
 - Enumeration techniques
 - Report writing
 
-## ⚠ Disclaimer
+# ⚠ Disclaimer
 - This write-up is for educational purposes only.
 - Do not attempt these techniques on systems you do not own or have permission to test.
 
 👤 Author
-
-Marvin Tshirufho
-Cybersecurity Enthusiast | IT Graduate
-📧 funananimunyai51@gmail.com
-🔗 www.linkedin.com/in/funanani-tshirufho-b4ba3a276
-🔗 Funanani
+- Marvin Tshirufho
+- Cybersecurity Enthusiast | IT Graduate
+    - 📧 funananimunyai51@gmail.com
+    - 🔗 www.linkedin.com/in/funanani-tshirufho-b4ba3a276
+    - 🔗 Funanani
