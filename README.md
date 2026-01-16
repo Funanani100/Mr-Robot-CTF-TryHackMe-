@@ -1,38 +1,26 @@
 # 🕵️‍♂️ Mr Robot CTF – TryHackMe Walkthrough
 
 ## 📌 Overview
-This repository contains my complete walkthrough of the Mr Robot CTF room on TryHackMe.
-The challenge is inspired by the Mr Robot TV series and focuses on real-world penetration testing techniques such as:
-
-Enumeration
-
-Web exploitation
-
-Hash cracking
-
-Privilege escalation
+- This repository contains my complete walkthrough of the Mr Robot CTF room on TryHackMe.
+- The challenge is inspired by the Mr Robot TV series and focuses on real-world penetration testing techniques such as:
+    - Enumeration
+    - Web exploitation
+    - Hash cracking
+    - Privilege escalation
 
 🔗 Room Link: https://tryhackme.com/room/mrrobot
 
-🎯 Objectives
+## 🎯 Objectives
+  - Gain access to the target machine
+  - Capture all three hidden flags
+  - Perform privilege escalation to root
 
-Gain access to the target machine
-
-Capture all three hidden flags
-
-Perform privilege escalation to root
-
-🛠 Tools Used
-
-Nmap
-
-Gobuster
-
-Hydra
-
-John The Ripper
-
-Linux privilege escalation techniques
+## 🛠 Tools Used
+  - Nmap
+  - Gobuster
+  - Hydra
+  - John The Ripper
+  - Linux privilege escalation techniques
 
 🔍 Step 1: Enumeration
 Network Scanning
